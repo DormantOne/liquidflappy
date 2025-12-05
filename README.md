@@ -71,9 +71,6 @@ Lamarckian inheritance is overpowered. Skills shouldn't reset each generation. L
 Vision-only learning is possible. But it's much harder than giving the network oracle sensors. The honest version took more generations to converge.
 Evolution finds weird solutions. A spectral radius above 1.0 should be unstable, but paired with high leak rate, it works. The system discovered its own stability trick.
 
-📁 Files
 
-honest_flap.py — The complete furnace (~750 lines)
-requirements.txt — Dependencies (torch, numpy, flask)
 
 
