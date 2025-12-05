@@ -9,11 +9,6 @@ Could frame thy neural symmetry?
 To forge a brain capable of navigating the chaos, we built a Digital Furnace—a four-stage engine designed to hammer random matrices into intelligent thought.
 Show Image
 
-Quick Start
-pip install torch numpy flask
-python honest_flap.py
-# Open http://127.0.0.1:5000
-
 The Four Stages
 🪨 The Ore — Six random numbers become a brain's blueprint
 🌊 The Liquid Metal — A reservoir of chaos learns to ripple with meaning
