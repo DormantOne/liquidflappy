@@ -1,0 +1,11 @@
+# 🔥 HONEST FURNACE - Dependencies
+# Liquid Neural Network + Neuroevolution Flappy Bird Trainer
+
+# Core ML framework
+torch>=2.0.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Web UI for visualization
+flask>=2.3.0
